@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Her Majesty the Queen Mother's palace, upon the reparation and enlargement of it, by Her Majesty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05939</idno>
+            <idno type="OCLC"> 13106910</idno>
+            <idno type="STC">Wing S4863</idno>
+            <idno type="STC">Interim Tract Supplement Guide 806.k.16[60]</idno>
+            <idno type="STC">ESTC R8662</idno>
+            <idno type="EEBO-CITATION">99890989</idno>
+            <idno type="PROQUEST">ocm99890989</idno>
+            <idno type="VID">181710</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181710)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:1[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Her Majesty the Queen Mother's palace, upon the reparation and enlargement of it, by Her Majesty.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Herringman, at the Anchor in the lower walk of the New Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Imprimatur, Roger L'Estrange. Nov. 2. 1664"--P. 4.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Palaces --  England --  London --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:181710:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>THE SPEECH Of Her Majeſty the Queen Mother's <add>Henrietta Maria</add> PALACE, <hi>Upon the Reparation and Enlargement of it, by Her</hi> MAJESTY.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen God (the Cauſe to Me and Men unknown)</l>
+               <l>Forſook the Royal Houſes, and his Own,</l>
+               <l>And both abandon'd to the Common Foe;</l>
+               <l>How near to ruine did my Glories go?</l>
+               <l>Nothing remain'd t' adorn this Princely place</l>
+               <l>Which Covetous hands could Take or Rude Deface.</l>
+               <l>In all my rooms and galleries I found</l>
+               <l>The richeſt Figures torn, and all around</l>
+               <l>Diſmembred Statues of great Heroes lay;</l>
+               <l>Such <hi>Naſeby's</hi> Field ſeem'd on the fatal Day.</l>
+               <l>And Me, when nought for Robbery was left,</l>
+               <l>They ſtarv'd to death; the gaſping walls were cleft,</l>
+               <l>The Pillars ſunk, the Roofs above me wept,</l>
+               <l>No ſign of Spring, or Joy, my Garden kept,</l>
+               <l>
+                  <pb n="2" facs="tcp:181710:2"/>
+                  <!-- PDF PAGE 5 -->
+Nothing was ſeen which could content the Eye,</l>
+               <l>Till Dead the impious Tyrant Here did lye.</l>
+            </lg>
+            <lg>
+               <l>See how my face is chang'd, and what I am</l>
+               <l>Since my true Miſtreſs, and now Foundreſs, came.</l>
+               <l>It does not fill her Bounty to reſtore</l>
+               <l>Me as I was (nor was I ſmall) before.</l>
+               <l>She imitates the Kindneſs to Her ſhown;</l>
+               <l>She does, like Heaven (which the dejected Throne</l>
+               <l>At once reſtores, fixes, and higher rears.)</l>
+               <l>Strengthen, Enlarge, Exalt what ſhe Repairs.</l>
+               <l>And now I dare (though proud I muſt not be,</l>
+               <l>Whil'ſt my great Miſtreſs I ſo Humble ſee</l>
+               <l>In all her various Glories) now I dare</l>
+               <l>Ev'n with the proudeſt Palaces compare,</l>
+               <l>My Beauty, and Convenience will (I'm ſure)</l>
+               <l>So juſt a boaſt with Modeſty endure.</l>
+               <l>And all muſt to me yield, when I ſhall tell,</l>
+               <l>How I am plac'd, and Who does in me dwell.</l>
+            </lg>
+            <lg>
+               <l>Before my gate a Street's broad Channel goes,</l>
+               <l>Which ſtill with Waves of crowding people flows,</l>
+               <l>And every day there paſſes by my ſide,</l>
+               <l>Up to its Weſtern Reach, the <hi>London</hi> Tide,</l>
+               <l>The Spring-Tides of the Term; my Front looks down</l>
+               <l>On all the Pride, and Buſineſs of the Town.</l>
+               <l>My other Front (for as in Kings we ſee</l>
+               <l>The livelieſt Image of the Deitie,</l>
+               <l>We in their Houſes ſhould Heav'ns likeneſs find,</l>
+               <l>Where nothing can be ſaid to be Behind)</l>
+               <l>My other fair and more Majeſtick Face</l>
+               <l>(Who can the Fair to more advantage place?)</l>
+               <l>For ever gazes on it ſelf below</l>
+               <l>In the beſt Mirrour that the world can ſhow.</l>
+            </lg>
+            <lg>
+               <l>And here, Behold, in a long bending row,</l>
+               <l>How two joynt Cities make one glorious Bow,</l>
+               <l>
+                  <pb n="3" facs="tcp:181710:2"/>
+                  <!-- PDF PAGE 5 -->
+The Midſt, the nobleſt place, poſſeſs'd by Me;</l>
+               <l>Beſt to be Seen by all, and all O'reſee.</l>
+               <l>Which way ſoe'r I turn my joyful Eye,</l>
+               <l>Here the Great Court, there the rich Town, I ſpy;</l>
+               <l>On either ſide dwells Safety and Delight;</l>
+               <l>Wealth on the Left, and Power upon the Right.</l>
+               <l>T' aſſure yet my defence, on either hand,</l>
+               <l>Like mighty Forts, in equal diſtance ſtand</l>
+               <l>Two of the beſt and ſtatelieſt piles, which e're</l>
+               <l>Man's liberal Piety of old did rear,</l>
+               <l>Where the two Princes of th' Apoſtles Band,</l>
+               <l>My Neighbours and my Guards, watch and command.</l>
+            </lg>
+            <lg>
+               <l>My warlike Guard of Ships, which farther lye,</l>
+               <l>Might be my Object too, were not the Eye</l>
+               <l>Stopt by the Houſes of that wondrous Street</l>
+               <l>Which rides o're the broad River, like a Fleet.</l>
+               <l>The Stream's eternal Siege they fixt abide,</l>
+               <l>And the ſwoln Stream's Auxiliary Tide,</l>
+               <l>Though both their ruine with joynt power conſpire,</l>
+               <l>Both to out-brave, they nothing dread but Fire.</l>
+               <l>And here my <hi>Thames,</hi> though it more gentle be</l>
+               <l>Than any Flood, ſo ſtrength'ned by the Sea,</l>
+               <l>Finding by Art his Natural forces broke,</l>
+               <l>And bearing, Captive-like, the Arched Yoke,</l>
+               <l>Do's roar, and foam, and rage at the diſgrace,</l>
+               <l>But recompoſes ſtrait and calms his Face,</l>
+               <l>Is into reverence and ſubmiſſion ſtrook,</l>
+               <l>As ſoon as from afar he does but look</l>
+               <l>Tow'rds the White Palace where that King does reign</l>
+               <l>VVho lays his Laws and Bridges o're the Main.</l>
+            </lg>
+            <lg>
+               <l>Amidſt theſe lowder Honours of my Seat,</l>
+               <l>And two vaſt Cities, troubleſomly Great,</l>
+               <l>In a large various plain the Country too</l>
+               <l>Opens her gentler bleſſings to my View,</l>
+               <l>
+                  <pb n="4" facs="tcp:181710:3"/>
+                  <!-- PDF PAGE 6 -->
+In me the Active and the Quiet Mind</l>
+               <l>By different ways equal content may find.</l>
+               <l>If any prouder Vertuoſo's ſence</l>
+               <l>At that part of my Proſpect take offence,</l>
+               <l>By which the meaner Cabanes are deſcri'd,</l>
+               <l>Of my Imperial River's humbler ſide,</l>
+               <l>If they call that a Blemiſh, let them know,</l>
+               <l>God, and my God-like Miſtreſs, think not ſo;</l>
+               <l>For the diſtreſt and the afflicted lye</l>
+               <l>Moſt in their Care, and always in their Eye.</l>
+            </lg>
+            <lg>
+               <l>And thou, fair River, who ſtill pay'ſt to Me</l>
+               <l>Juſt Homage, in thy paſſage to the Sea,</l>
+               <l>Take here this one Inſtruction as thou goeſt;</l>
+               <l>When thy mixt Waves ſhall viſit every Coaſt,</l>
+               <l>When round the world their Voyage they ſhall make,</l>
+               <l>And back to Thee ſome ſecret Channels take,</l>
+               <l>Ask them what nobler ſight they e're did meet</l>
+               <l>Except thy mighty Maſter's Sovereign Fleet,</l>
+               <l>VVhich now triumphant o're the Main does ride,</l>
+               <l>The Terrour of all Lands, the Ocean's Pride.</l>
+            </lg>
+            <lg>
+               <l>From hence his Kingdom's Happy now at laſt,</l>
+               <l>(Happy, if VViſe by their Misfortunes paſt)</l>
+               <l>From hence may Omens take of that ſucceſs</l>
+               <l>VVhich both their future VVars and Peace ſhall bleſs:</l>
+               <l>The Peaceful Mother on mild <hi>Thames</hi> does build,</l>
+               <l>VVith her Son's Fabricks the rough <hi>Sea</hi> is fill'd.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>IMPRIMATUR,</p>
+            <closer>
+               <signed>Roger L'Eſtrange.</signed>
+               <dateline>
+                  <date>Nov. 2. 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Henry Herringman,</hi> at the <hi>Anchor</hi> in the Lower Walk of the <hi>New Exchange.</hi> 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
